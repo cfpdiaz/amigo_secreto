@@ -44,8 +44,8 @@ La interfaz es sencilla y amigable, con un diseño moderno y responsivo que se a
 Si tienes alguna pregunta o necesitas ayuda con el proyecto, puedes contactar al autor:
 
 - **Nombre del Autor:** Claudio Peña Díaz
-- **Correo Electrónico:** [claudio.pena@example.com](mailto:claudio.pena@example.com)
-- **Repositorio del Proyecto:** [Enlace al Repositorio](https://github.com/claudio-pena/amigo-secreto)
+- **Correo Electrónico:** mailto:cpennad@gmail.com
+- **Repositorio del Proyecto:** https://github.com/cfpdiaz/amigo_secreto
 
 ## Tecnologías Utilizadas
 
